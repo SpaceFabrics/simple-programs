@@ -6,7 +6,7 @@ def numbers():
     return n1, n2
 
 def addition(num1, num2):
-    a1 = int(num1 + num2)1
+    a1 = int(num1 + num2)
     print("the result is:", a1)
 
 num1, num2 = numbers()

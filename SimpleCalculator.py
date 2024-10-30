@@ -1,3 +1,5 @@
+version = 0.01
+
 def numbers():
     n1 = int(input("What is the first number?"))
     n2 = int(input("What is the second number?"))
